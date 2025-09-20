@@ -1,4 +1,23 @@
-# Tabler Icons
+# OSIB Icons (forked from Tabler Icons)
+
+TODO: Find an add more relevant icons, some ideas to source from:
+
+- https://www.svgrepo.com/collection/pictonic-logo-icons/6
+- https://www.svgrepo.com/collection/people-gestures-and-signs-icons/
+- https://www.svgrepo.com/collection/company-logo-icons/
+
+## Additional Icons to include *(see TODONEW directory)*
+
+- [x] *(inside `TODONEW`)* https://github.com/AwesomeLogos/google-cloud-icons
+- [x] *(inside `TODONEW`)* https://github.com/540co/govicons
+- [x] *(inside `TODONEW`)* https://github.com/network-automation/networking-icons
+- [x] *(inside `TODONEW`)* https://github.com/CyCraft/pepicons
+- [x] *(inside `TODONEW`)* https://github.com/simple-icons/simple-icons
+- [x] *(inside `TODONEW`)* https://github.com/0xa3k5/web3icons
+- [ ] *(Not included yet)* https://github.com/devicons/devicon
+- [ ] *(Not included yet)* https://github.com/lipis/flag-icons
+- [ ] *(Not included yet)* https://github.com/spothq/cryptocurrency-icons
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/tabler/tabler-icons/main/.github/packages/og-core.png" alt="Tabler Icons" width="838">
