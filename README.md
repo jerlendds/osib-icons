@@ -11,10 +11,6 @@ TODO: Find an add more relevant icons, some ideas to source from:
 - [x] *(inside `TODONEW`)* https://github.com/AwesomeLogos/google-cloud-icons
 - [x] *(inside `TODONEW`)* https://github.com/540co/govicons
 - [x] *(inside `TODONEW`)* https://github.com/network-automation/networking-icons
-- [x] *(inside `TODONEW`)* https://github.com/CyCraft/pepicons
-- [x] *(inside `TODONEW`)* https://github.com/simple-icons/simple-icons
-- [x] *(inside `TODONEW`)* https://github.com/0xa3k5/web3icons
-- [ ] *(Not included yet)* https://github.com/devicons/devicon
 - [ ] *(Not included yet)* https://github.com/lipis/flag-icons
 - [ ] *(Not included yet)* https://github.com/spothq/cryptocurrency-icons
 
