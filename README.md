@@ -8,7 +8,6 @@ TODO: Find an add more relevant icons, some ideas to source from:
 
 ## Additional Icons to include *(see TODONEW directory)*
 
-- [x] *(inside `TODONEW`)* https://github.com/AwesomeLogos/google-cloud-icons
 - [x] *(inside `TODONEW`)* https://github.com/540co/govicons
 - [x] *(inside `TODONEW`)* https://github.com/network-automation/networking-icons
 - [ ] *(Not included yet)* https://github.com/lipis/flag-icons
